@@ -26,6 +26,21 @@ Using this template to create a new Django app is easy::
 
 You can replace ``helloworld`` with your desired project name.
 
+## Runing Your Project
+
+Install dependencies::
+
+    $ pip install -r requirements.txt
+
+Sync Your DB::
+
+    $ manage.py migrate
+
+Run::
+
+    $ manage.py runserver
+
+
 ## Deployment to Heroku
 
     $ git init
