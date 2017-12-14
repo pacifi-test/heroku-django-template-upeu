@@ -1,6 +1,6 @@
 # Heroku Django Starter Template UPeU
 
-An utterly fantastic project starter template for Django 1.11.
+An utterly fantastic project starter template for Django 2.0.
 
 ## Features
 
