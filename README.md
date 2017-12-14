@@ -38,7 +38,7 @@ Sync Your DB::
 
 Run::
 
-    $ manage.py runserver
+    $ manage.py runserver 9000
 
 
 ## Deployment to Heroku

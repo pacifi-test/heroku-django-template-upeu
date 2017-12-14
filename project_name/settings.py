@@ -175,11 +175,11 @@ LOGOUT_URL = reverse_lazy('logout')
 
 # EMAIL
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'asullom@gmail.com'
-EMAIL_HOST_PASSWORD = '12354...'
+EMAIL_HOST_USER = 'upeu2018pro@gmail.com'
+EMAIL_HOST_PASSWORD = '123456782018'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-DEFAULT_FROM_EMAIL = 'asullom@gmail.com'
+DEFAULT_FROM_EMAIL = 'upeu2018pro@gmail.com'
 
 AUTHENTICATION_BACKENDS = (
     'social_core.backends.facebook.FacebookOAuth2',
@@ -214,8 +214,8 @@ SOCIAL_AUTH_GITHUB_PROFILE_EXTRA_PARAMS = {
     'fields': 'id, name, email'
 }
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '323087048578-no4vemjqbhlnasli5opj3m8k6mp7cbce.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'C4JY3tvnJAU2fNNmK7m-9ZLo'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '1082996671890-fbu61vmp0gfehh7tg0tgs7feenqr95qj.apps.googleusercontent.com'
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'kYj_RFjlDyDQbt6SnscPrC1j'
 SOCIAL_AUTH_GOOGLE_OAUTH2_SCOPE = ['email']
 SOCIAL_AUTH_GOOGLE_PROFILE_EXTRA_PARAMS = {
     'fields': 'id, name, email'
