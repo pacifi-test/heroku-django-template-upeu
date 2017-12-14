@@ -176,7 +176,7 @@ LOGOUT_URL = reverse_lazy('logout')
 # EMAIL
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'upeu2018pro@gmail.com'
-EMAIL_HOST_PASSWORD = '123456782018'
+EMAIL_HOST_PASSWORD = '12345678a'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = 'upeu2018pro@gmail.com'
